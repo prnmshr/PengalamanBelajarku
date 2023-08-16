@@ -1,5 +1,5 @@
 # PengalamanBelajarku
-### Repository ini berisi pengalaman belajarku di Dicoding
+Repository ini berisi pengalaman belajarku di Dicoding
 
 **16 Agustus 2023**  
 Belajar Dasar *Git* dan *GitHub* (__38%__)
